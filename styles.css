@@ -1,0 +1,22 @@
+body{
+    background-color: #ccc;
+}
+h1{
+    text-align: center;
+}
+.selections{
+    display: flex;
+    justify-content: center;
+}
+.selection{
+    background-color: none;
+    border: none;
+    outline: none;
+    margin: 15px;
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.results{
+    font-size: 3rem;
+}
